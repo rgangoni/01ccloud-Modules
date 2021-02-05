@@ -1,0 +1,11 @@
+#variable "alarms_email" {}
+#variable "instance_name" {}
+#variable "instance_type" {}
+variable "vpc_name" {}
+variable "vpc_cidr_block" {}
+variable "public_cidr_block_1" {}
+#variable "security_group_name" {}
+variable "availability_zone" {}
+variable "vpc_id" {}
+#variable "ami" {}
+#variable "key_name" {}
